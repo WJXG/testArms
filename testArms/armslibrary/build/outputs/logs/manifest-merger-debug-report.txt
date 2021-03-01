@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
+		INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
+		ADDED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml:2:1-9:12
+		INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
+		ADDED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml:2:1-9:12
+		INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml:5:5-7:19
+activity#com.jess.armslibrary.mvp.ui.activity.armsLibraryActivity
+ADDED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml:6:9-82
+	android:name
+		ADDED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml:6:19-70
+uses-sdk
+INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
+INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
+INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
+INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
+		ADDED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
+		INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
+		ADDED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
+		INJECTED from K:\10-----------------Android\developPath\testArms\armslibrary\src\main\AndroidManifest.xml
