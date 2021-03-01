@@ -19,7 +19,15 @@ android {
         versionName rootProject.ext.android["versionName"]
         testInstrumentationRunner rootProject.ext.dependencies["androidJUnitRunner"]
     }
-
+    signingConfigs{
+        release{
+            storeFile file("./test.jks")
+            storePassword "111111"
+            keyAlias "key0"
+            keyPassword "111111"
+            v2SigningEnabled false
+        }
+    }
     buildTypes {
         debug {
             buildConfigField "boolean", "LOG_DEBUG", "true"
